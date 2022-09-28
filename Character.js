@@ -1,4 +1,4 @@
-import { getDiceRollArray, getDicePlaceholderHtml, getPercentage } from '/utils.js'
+import { getDiceRollArray, getDicePlaceholderHtml, getPercentage } from './utils.js'
 
 //Burada class kullanabilirdim. Daha sonradan classa çeviriyorum fakat şuanlık böyle bırakma kararı aldım. Classa çevirdiğim kodu neden buraya koymadın derseniz:
 //Şuanda scrimba üzerinden kurs alıyorum ve aylık para ödüyorum. Öğrenci olduğum için her ay para çıkarmakta zorlanıyorum o yüzden hiç vakit kaybetmek istemedim.
